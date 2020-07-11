@@ -1,7 +1,7 @@
 ### Vaibhav Jha
 [![rishiraj acharya header](https://raw.githubusercontent.com/vaibhavkrjha/vaibhavkrjha/master/vaibhavjhacover.png)](https://vaibhavjha.com/)
 <p align="center">
-<p align="center"><br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> 
+<p align="center"><br/><a href="#contributing"><img alt="Contributions Are Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> 
 <br>
 <p>  
 My name is **Vaibhav Jha** a Computer Science Engineer from Manav Rachna International Institute of Research & Studies,a cyber security researcher, author, public speaker and an entrepreneur. My major areas of research are wireless security, IOT security, SOC/SIEM and automation security. I am working on DevSecOps and automation thus trying building the automates cyber security consortium, which might takes years to get into the market. Learning AI & ML to club the tools of security all together. Apart from this i am the youngest person to train IA & AS Officers of Govt. of India and international cops, bureaucrats and delegates of more than 35 countries on safeguarding critical security infrastructure [Read More](https://manavrachna.edu.in/latest/session-on-cybersecurity-safeguarding-critical-security-vulnerabilities/). I have been awarded as [budding researcher award](https://www.amity.edu/iccakm/awardee.asp) by IEEE at INTERNATIONAL CONFERENCE ON COMPUTATION, AUTOMATION AND KNOWLEDGE MANAGEMENT at Amity Dubai. Till date i have trained more than 10k people on the broader domain of cyber security all across the world.
