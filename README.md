@@ -27,7 +27,7 @@ My name is **Vaibhav Jha** a Computer Science Engineer from Manav Rachna Interna
 - 📫 How to reach me: DM on Instagram 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Motor Racing | Swimming | Travelling | Following my long list of dreams.... (available on insta)
-- ❤️ I love giving public talks and intercating with people. Also love to help students and professionals in making out something big.
+- ❤️ I love giving public talks and intercating with people. Also love to help students & professionals in making out something big.
 - 💬 Ping me to give a talk, contributing in a project, mentoring, promos, tool development, film productions and much more....
 
 
