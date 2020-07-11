@@ -1,5 +1,5 @@
 ### Vaibhav Jha
-<h1 align="center"><img src="assets/vaibhavjhacover.png"/></h1>
+<h1 align="center"><img src="vaibhavjhacover.png"/></h1>
 <!--
 **vaibhavkrjha/vaibhavkrjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
