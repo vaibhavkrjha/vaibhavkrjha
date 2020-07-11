@@ -1,7 +1,20 @@
 ### Vaibhav Jha
 <h1 align="center"><img src="vaibhavjhacover.png"/></h1>
 
-My name is Vaibhav Jha a Computer Science Engineer from Manav Rachna International Institute of Research & Studies,a cyber security researcher, author, public speaker and an entrepreneur. My major areas of research are wireless security, IOT security, SOC/SIEM and automation security. I am working on DevSecOps and automation thus trying building the automates cyber security consortium, which might takes years to get into the market. Learning AI & ML to club the tools of security all together. Apart from this i am the youngest person to train IA & AS Officers of Govt. of India and international cops, bureaucrats and delegates of more than 35 countries on safeguarding critical security infrastructure [Click to see the Coverage](https://manavrachna.edu.in/latest/session-on-cybersecurity-safeguarding-critical-security-vulnerabilities/). 
+My name is Vaibhav Jha a Computer Science Engineer from Manav Rachna International Institute of Research & Studies,a cyber security researcher, author, public speaker and an entrepreneur. My major areas of research are wireless security, IOT security, SOC/SIEM and automation security. I am working on DevSecOps and automation thus trying building the automates cyber security consortium, which might takes years to get into the market. Learning AI & ML to club the tools of security all together. Apart from this i am the youngest person to train IA & AS Officers of Govt. of India and international cops, bureaucrats and delegates of more than 35 countries on safeguarding critical security infrastructure [Click to see the Coverage](https://manavrachna.edu.in/latest/session-on-cybersecurity-safeguarding-critical-security-vulnerabilities/). I have been awarded as budding researcher award by IEEE at [INTERNATIONAL CONFERENCE ON COMPUTATION, AUTOMATION AND KNOWLEDGE MANAGEMENT at Amity Dubai](https://www.amity.edu/iccakm/awardee.asp). Till date i have trained more than 10k people on the broader domain of cyber security all across the world.
+
+
+### Professional Experience
+- Founder of [Intersquad Cyber Intelligence](https://theintersquad.com)
+- Chapter Leader at [OWASP Noida](https://owasp.org/www-chapter-noida/)
+- Mentor of Change at NITI Aayog, India
+- Visiting Faculty Member at Comptroller Auditor General of India
+- Chairperson at National Cyber Security Conference 2k18
+- External Cyber Security Researcher at Ministry of Electronics & IT, India
+- Cyber Security Resercher at Gurugram Police - GPSI2019, India
+- Student Placement Coordinator at Manav Rachna Educational Institutions
+- Security Analyst Intern at Codec Security, India
+
 
 
 #### About Me
@@ -9,6 +22,7 @@ My name is Vaibhav Jha a Computer Science Engineer from Manav Rachna Internation
 - 🌱 I’m currently learning Automation & Exploit Writing
 - 👯 I’m looking to collaborate on everything which gives me a spark.
 - 💬 Ask me about Information Security Management and Software Development
+- ❤️ I love giving public talks and intercating with people.
 - 📫 How to reach me: DM on Instagram 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Motor Racing | Swimming | Travelling | Following my long list of dreams.... (available on insta)
