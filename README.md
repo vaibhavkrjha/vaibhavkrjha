@@ -18,7 +18,7 @@ My name is **Vaibhav Jha** a Computer Science Engineer from Manav Rachna Interna
 - External Cyber Security Researcher at Ministry of Electronics & IT, India
 - Cyber Security Resercher at Gurugram Police - GPSI2019, India
 - Student Placement Coordinator at Manav Rachna Educational Institutions
-- Security Analyst Intern at Codec Security, India
+- Security Analyst Intern at Codec Security, India 
 
 
 
