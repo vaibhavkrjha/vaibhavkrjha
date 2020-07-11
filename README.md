@@ -1,7 +1,7 @@
 ### Vaibhav Jha
 
-### Hi there 👋
-
+[![vaibhav jha header](https://raw.githubusercontent.com/vaibhavkrjha/vaibhavkrjha/master/vaibhavjha coverpage.png)](https://vaibhavjha.com/)
+<p align="center">
 <!--
 **vaibhavkrjha/vaibhavkrjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
