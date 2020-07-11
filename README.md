@@ -1,5 +1,6 @@
 ### Vaibhav Jha
-<h1 align="center"><img src="vaibhavjhacover.png"/></h1>
+[![rishiraj acharya header](https://raw.githubusercontent.com/vaibhavkrjha/vaibhavkrjha/master/vaibhavjhacover.png)](https://vaibhavjha.com/)
+<p align="center">
 
 My name is Vaibhav Jha a Computer Science Engineer from Manav Rachna International Institute of Research & Studies,a cyber security researcher, author, public speaker and an entrepreneur. My major areas of research are wireless security, IOT security, SOC/SIEM and automation security. I am working on DevSecOps and automation thus trying building the automates cyber security consortium, which might takes years to get into the market. Learning AI & ML to club the tools of security all together. Apart from this i am the youngest person to train IA & AS Officers of Govt. of India and international cops, bureaucrats and delegates of more than 35 countries on safeguarding critical security infrastructure [Click to see the Coverage](https://manavrachna.edu.in/latest/session-on-cybersecurity-safeguarding-critical-security-vulnerabilities/). I have been awarded as budding researcher award by IEEE at [INTERNATIONAL CONFERENCE ON COMPUTATION, AUTOMATION AND KNOWLEDGE MANAGEMENT at Amity Dubai](https://www.amity.edu/iccakm/awardee.asp). Till date i have trained more than 10k people on the broader domain of cyber security all across the world.
 
