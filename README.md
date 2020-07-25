@@ -1,5 +1,5 @@
 ### Vaibhav Jha
-[![rishiraj acharya header](https://raw.githubusercontent.com/vaibhavkrjha/vaibhavkrjha/master/vaibhavjhacover.png)](https://vaibhavjha.com/)
+[![vaibhav jha header](https://raw.githubusercontent.com/vaibhavkrjha/vaibhavkrjha/master/vaibhavjhacover.png)](https://vaibhavjha.com/)
 <p align="center">
 <p align="center"><br/><a href="#contributing"><img alt="Contributions Are Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a> 
 <br>
