@@ -10,11 +10,8 @@ My name is **Vaibhav Jha** a Computer Science Engineer from Manav Rachna Interna
 
 
 ### Professional Experience
-- Founder of [Intersquad Cyber Intelligence](https://theintersquad.com)
-- Chapter Leader at [OWASP Noida](https://owasp.org/www-chapter-noida/)
-- Mentor of Change at NITI Aayog, India
+- Organiser CIA Conference
 - Visiting Faculty Member at Comptroller Auditor General of India
-- Chairperson at National Cyber Security Conference 2k18
 - External Cyber Security Researcher at Ministry of Electronics & IT, India
 - Cyber Security Resercher at Gurugram Police - GPSI2019, India
 - Student Placement Coordinator at Manav Rachna Educational Institutions
